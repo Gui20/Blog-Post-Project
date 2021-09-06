@@ -21,7 +21,7 @@ def total_count(df, col1, col2, look_for):
 
 possible_vals = ["AWS", "Microsoft Azure", "Google Cloud Platform", "Heroku"]
 plot = True
-title='Most used Platforms for StakOverflow survey respondents'
+title = 'Most used Platforms for StakOverflow survey respondents'
 
 
 print('Whats is the most used platforms in the Survey held in 2021?')
